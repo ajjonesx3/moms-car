@@ -96,7 +96,7 @@ a:hover {
 
 @media only screen and (max-width:680px), (max-device-width:680px){
 	html {
-		font-size:12px;
+		font-size:18px;
 	}
 	header {
 		font-size:2em;
@@ -141,7 +141,7 @@ a:hover {
 		margin-left:15px;
 	}
 	ol li {
-		font-size:1em;
+		font-size:1.5em;
 		margin-bottom:40px;
 		margin-top:40px;
 	}
